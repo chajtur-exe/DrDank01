@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, data analysis, robotics and web programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate in cybersecurity and web development projects
-- 📫 How to reach me expertsontheweb@gmail.com
+- 📫 How to reach me hanna.chajtur@pm.me
 
 <!---
 DrDank01/DrDank01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
